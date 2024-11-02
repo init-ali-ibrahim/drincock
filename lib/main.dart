@@ -13,14 +13,15 @@ void main() {
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return BlocProvider(
-      create: (context) => AuthBloc(),
-      child: MaterialApp.router(
-        routerConfig: _router
+    // return BlocProvider(
+    // create: (context) => AuthBloc(),
+    // child:
+
+    return MaterialApp.router(routerConfig: _router
         // routerDelegate: _router.routerDelegate,
         // routeInformationParser: _router.routeInformationParser,
-      ),
-    );
+        );
+    // );
   }
 }
 

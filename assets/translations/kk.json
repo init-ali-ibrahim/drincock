@@ -1,0 +1,53 @@
+{
+  "hello": "салам {name}",
+  "go_to": "кеттк барын таста {second_url}",
+
+  "profile": "У меня нет кз раскладки, Так что вот твоё имя: {name}",
+  "login_with_google": "Google арқылы кіру",
+  "or": "немесе",
+  "test": "test",
+  "login": {
+    "login": "Кіру",
+    "do_not_have_account": "Егер сізде әлі аккаунт жоқ болса",
+    "register": "тіркелу",
+    "number": "Телефон нөмірі",
+    "password": "Құпиясөз",
+    "to_login": "кіріңіз"
+  },
+  "pass_equal": "Құпия сөз сәйкес келуі керек",
+  "register": {
+    "register": "Тіркелу",
+    "first_name": "Аты",
+    "first_name_placeholder": "Атыңызды енгізіңіз",
+    "last_name": "Тегі",
+    "last_name_placeholder": "Тегіңізді енгізіңіз",
+    "number": "Телефон нөмірі",
+    "email": "Электрондық пошта",
+    "confirm_password": "Құпиясөзді растаңыз",
+    "password": "Құпиясөз",
+    "do_registration": "Тіркелу",
+    "do_registration_with_google": "Google арқылы тіркеліңіз",
+
+    "to_register": "тіркелу",
+    "have_account":"Егер сізде аккаунт бар болса"
+  },
+
+  "home": {
+    "home_screen": "Басты бет"
+  },
+  "remember_me": "Мені есте сақтаңыз",
+  "forget_pass": "Құпия сөзді ұмытып қалдым",
+
+
+  "notifications": "Хабарламалар",
+  "dark_mode": "Қараңғы режим",
+  "security": "Қауіпсіздік",
+  "language": "Тіл",
+  "russian": "Орыс",
+  "english": "Ағылшын",
+  "kazakh": "Қазақ",
+  "current_language": "Қазақ",
+  "log_out": "Шығу",
+  "my_profile": "Менің профилім",
+  "chat": "Чат"
+}

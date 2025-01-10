@@ -1,0 +1,52 @@
+{
+  "hello": "привет {name}",
+  "go_to": "погнали к {second_url}",
+
+  "profile": "Вот твоё имя: {name}",
+  "login_with_google": "войти через Google",
+  "or": "или",
+  "test": "test",
+  "login": {
+    "login": "Вход",
+    "do_not_have_account": "Если у вас еще нет аккаунта",
+    "register": "зарегистрироваться",
+    "number": "Номер телефона",
+    "password": "Пароль",
+    "to_login": "войдите"
+  },
+  "pass_equal": "",
+  "register": {
+    "register": "Регистрация",
+    "first_name": "Имя",
+    "first_name_placeholder": "Введите имя",
+    "last_name": "Фамилия",
+    "last_name_placeholder": "Введите фамилию",
+    "number": "Номер телефона",
+    "email": "Электронная почта",
+    "confirm_password": "Подтвердите пароль",
+    "password": "Пароль",
+    "do_registration": "Зарегистрироваться",
+    "do_registration_with_google": "Войти с помощью Google",
+
+    "to_register": "зарегистрируйтесь",
+    "have_account":"Если у вас уже есть аккаунт"
+  },
+
+  "home": {
+    "home_screen": "Главная страница"
+  },
+  "remember_me": "Запомнить меня",
+  "forget_pass": "Забыл пароль",
+
+  "notifications": "Уведомления",
+  "dark_mode": "Тёмный режим",
+  "security": "Безопасность",
+  "language": "Язык",
+  "russian": "Русский",
+  "english": "Английский",
+  "kazakh": "Казахский",
+  "current_language": "Русский",
+  "log_out": "Выйти",
+  "my_profile": "Мой профиль",
+  "chat": "Чат"
+}

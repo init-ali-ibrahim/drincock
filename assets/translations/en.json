@@ -1,0 +1,53 @@
+{
+  "hello": "hello {name}",
+  "go_to": "go to {second_url}",
+
+  "profile": "ITS YOUR PROFILE {name}",
+  "login_with_google": "Log in with Google",
+  "or": "or",
+  "test": "test",
+  "login": {
+    "login": "Log in",
+    "do_not_have_account": "Don't have an account yet",
+    "register": "Sign up",
+    "number": "Phone number",
+    "password": "Password",
+    "to_login": "sign in"
+  },
+  "pass_equal": "Password must be entered",
+  "register": {
+    "register": "Sign up",
+    "first_name": "First name",
+    "first_name_placeholder": "Enter your first name",
+    "last_name": "Last name",
+    "last_name_placeholder": "Enter your last name",
+    "number": "Phone number",
+    "email": "Email",
+    "confirm_password": "Confirm password",
+    "password": "Password",
+    "do_registration": "Sign up",
+    "do_registration_with_google": "Sign up with Google",
+
+    "to_register": "register",
+    "have_account":"If you have account"
+  },
+
+  "home": {
+    "home_screen": "Home screen"
+  },
+  "remember_me": "Remember me",
+  "forget_pass": "Forgot my password",
+
+  "notifications": "Notifications",
+  "dark_mode": "Dark mode",
+  "security": "Security",
+  "language": "Language",
+  "russian":"Russian",
+  "english": "English",
+  "kazakh": "Kazakh",
+  "current_language": "English",
+  "log_out": "Log out",
+  "my_profile": "My profile",
+  "chat": "Chat"
+
+}
